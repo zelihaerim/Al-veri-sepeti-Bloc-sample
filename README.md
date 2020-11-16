@@ -7,5 +7,7 @@ Homepage- Products  </br>
 User Cart  </br>
 ![2](https://user-images.githubusercontent.com/23221280/99284920-e71a9480-2847-11eb-87e0-d0a60d873a81.PNG)  </br>
 
-You can add products by tapping icons and then you can view your cart tapping right buttom shopping car icon.  </br>
-In addition to viewing products in your cart, you can delete product by tapping icon, placed on left side of each product. </br>
+You can add products by tapping icons whichs are on left of the each products and then you can view your cart by tapping at the </br>
+right button represented as shopping trolley icon. </br>
+In addition to viewing products in your cart, you can delete product from your cart by tapping icon, </br>
+placed on left side of each product. </br>
